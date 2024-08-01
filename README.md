@@ -7,6 +7,8 @@ I’m a passionate software developer in training with a love for building and d
 
 I’m currently focusing on HTML, CSS, and JavaScript, and my projects are geared towards building confidence in these areas. I’m excited to collaborate and bring new ideas to life.
 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /> </a>
+
 Feel free to explore my repositories, where you’ll find projects from my coding bootcamp and a few solo endeavors. I’m always open to feedback, suggestions, and new opportunities, so don’t hesitate to reach out!
 
 ## Want to get in touch? you can find me here:
@@ -18,6 +20,10 @@ Feel free to explore my repositories, where you’ll find projects from my codin
 [4]: https://www.linkedin.com/in/ntshebetseng-moloi-3a2900317/
 [5]: https://www.github.com/NtshebetsengM
 
+or email me at ntsebetsengmoloi@gmail.com
+
+### more about me
+I love diving into sci-fi and fantasy novels, getting lost in different worlds. When I’m not reading, you’ll often find me enjoying music, playing with my dog(Yahoo), or exploring new food. Life’s better with a good book, a great tune, and a furry friend by my side!
 <!--
 **NtshebetsengM/NtshebetsengM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
