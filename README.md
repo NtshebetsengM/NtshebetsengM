@@ -1,7 +1,7 @@
 
 ![header](https://github.com/user-attachments/assets/38ccd08e-eff0-452f-b9fd-18c40a4b91bd)
 ## Hello World 👋
-Hi, I’m Ntshebetseng Kananelo Yamkela Mamoloi Moloi (yes, it’s a mouthful, but you can call me Nana 😉).
+I am Ntshebetseng Kananelo Yamkela Mamoloi Moloi (yes, it’s a mouthful, but you can call me Nana 😉).
 
 I’m a passionate software developer in training with a love for building and designing interactive apps. I enjoy tackling challenging problems and finding innovative solutions through code.
 
@@ -22,19 +22,8 @@ Feel free to explore my repositories, where you’ll find projects from my codin
 
 or email me at ntsebetsengmoloi@gmail.com
 
-### more about me
-I love diving into sci-fi and fantasy novels, getting lost in different worlds. When I’m not reading, you’ll often find me enjoying music, playing with my dog(Yahoo), or exploring new food. Life’s better with a good book, a great tune, and a furry friend by my side!
-<!--
-**NtshebetsengM/NtshebetsengM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### More about me
+I love getting lost in sci-fi and fantasy novels, where I can explore fantastical worlds and embark on epic adventures. When I’m not buried in a book, you’ll often find me enjoying a wide range of music, playing with my energetic dog Yahoo, sampling new and exciting foods, or diving into immersive video games. For me, life is richer with a compelling story, great tunes, a loyal furry friend, and an engaging gaming experience. Each of these passions adds a unique flavor to my days, making every moment a little more thrilling and enjoyable.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for checking me out! 
+Happy Coding✨
