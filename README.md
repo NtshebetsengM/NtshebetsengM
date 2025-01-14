@@ -1,26 +1,30 @@
 
 ![header](https://github.com/user-attachments/assets/38ccd08e-eff0-452f-b9fd-18c40a4b91bd)
 ## Hello World :v:
-My name is Ntshebetseng Kananelo Yamkela Mamoloi Moloi (yes, it’s a mouthful, but you can call me Nana :wink:).
+My name is Ntshebetseng Kananelo Yamkela Mamoloi Moloi (yes, it’s a mouthful—feel free to call me Nana! :wink:).
 
-I’m a passionate software developer in training with a love for building and designing interactive apps. I enjoy tackling challenging problems and finding innovative solutions through code.
+I’m a passionate software developer in training with a love for creating interactive and engaging web apps. Currently, I'm focused on mastering **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React** while honing my problem-solving and project-building skills.
 
-I’m currently focusing on HTML, CSS, and JavaScript, and my projects are geared towards building confidence in these areas. I’m excited to collaborate and bring new ideas to life.
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js" /> </a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase" /></a>
 
 Feel free to explore my repositories, where you’ll find projects from my coding bootcamp and a few solo endeavors. I’m always open to feedback, suggestions, and new opportunities, so don’t hesitate to reach out!
+
+
 ## My work so far!
-- [Dummy portfolio](https://github.com/NtshebetsengM/Module_7R_CS20240200_WFO2407_D_Ntshebetseng-Moloi_SDF07_R)
- 
-  Another scrimba code along that required us to create a template portfolio website. The portfolio also links to other html pages that have further information about the 
-  pieces. This helped me gain confidence in CSS and introduced me to JS.
 
-- [Shopping list app](https://github.com/NtshebetsengM/Module_10R_CS20240200_WFO2407_D_Ntshebetseng-Moloi_SDF10_R)
+- **[Portfolio Website](https://github.com/NtshebetsengM/CS20240200_WFO2407_D_Ntshebetseng-Moloi_CDV05)**  
+  A modern portfolio showcasing my developer journey, including a contact form powered by Firebase Firestore for secure form submissions.
 
-   This was a result of a code along on Scrimba. It is a mobile web application that you can use to track what groceries you need to buy. When you have found what you are 
-   looking for, you can delete it from the app. This project helped me dive further into the world of javascript and databases(It is linked to a firebase live database.)
+- **[ListenUp](https://github.com/NtshebetsengM/CS20240200_WFO2407_D_NtshebetsengMoloi_DJS11)**  
+  A podcast app with sorting, filtering, and favorite-saving features. Built using **React** and **TypeScript**, it delivers an intuitive user experience.
 
+- **[Dummy Portfolio](https://github.com/NtshebetsengM/Module_7R_CS20240200_WFO2407_D_Ntshebetseng-Moloi_SDF07_R)**  
+  A template portfolio designed during a guided project. Focused on CSS and introduced me to JavaScript for interactive elements.
+
+- **[Shopping List App](https://github.com/NtshebetsengM/Module_10R_CS20240200_WFO2407_D_Ntshebetseng-Moloi_SDF10_R)**  
+  A mobile-friendly app for grocery tracking. Leveraged **JavaScript** and **Firebase live databases** for data storage.
+
+---
 ## Want to get in touch? you can find me here:
 [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
