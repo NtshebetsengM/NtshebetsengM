@@ -12,7 +12,7 @@ Feel free to explore my repositories, where you’ll find projects from my codin
 
 ## My work so far!
 
-- **[Portfolio Website](https://github.com/NtshebetsengM/CS20240200_WFO2407_D_Ntshebetseng-Moloi_CDV05)**  
+- **[Portfolio Website](https://github.com/NtshebetsengM/Ntshebetseng-Portfolio-website)**  
   A modern portfolio showcasing my developer journey, including a contact form powered by Firebase Firestore for secure form submissions.
 
 - **[ListenUp](https://github.com/NtshebetsengM/CS20240200_WFO2407_D_NtshebetsengMoloi_DJS11)**  
