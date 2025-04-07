@@ -3,9 +3,9 @@
 ## Hello World :v:
 My name is Ntshebetseng Kananelo Yamkela Mamoloi Moloi (yes, it’s a mouthful—feel free to call me Nana! :wink:).
 
-I’m a passionate software developer in training with a love for creating interactive and engaging web apps. Currently, I'm focused on mastering **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **React** while honing my problem-solving and project-building skills.
+I’m a passionate software developer in training with a love for creating interactive and engaging web apps. Currently, I'm focused on mastering **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React** and **C#** while honing my problem-solving and project-building skills.
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c#" /></a>
 
 Feel free to explore my repositories, where you’ll find projects from my coding bootcamp and a few solo endeavors. I’m always open to feedback, suggestions, and new opportunities, so don’t hesitate to reach out!
 
